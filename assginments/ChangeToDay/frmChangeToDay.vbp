@@ -1,7 +1,9 @@
 Type=Exe
 Form=frmChangeToDay.frm
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
+IconForm="frmChangeToDay"
 Startup="frmChangeToDay"
+ExeName32="frmChangeToDay.exe"
 Command32=""
 Name="Project1"
 HelpContextID="0"
